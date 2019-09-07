@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>400</width>
+    <height>300</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget"/>
+  <action name="actionAI_First">
+   <property name="text">
+    <string>AIFirst</string>
+   </property>
+  </action>
+  <action name="actionPE_First">
+   <property name="text">
+    <string>PEFirst</string>
+   </property>
+  </action>
+  <action name="actionPE1_First">
+   <property name="text">
+    <string>PE1First</string>
+   </property>
+  </action>
+  <action name="actionPE2_First">
+   <property name="text">
+    <string>PE2First</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
