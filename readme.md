@@ -1,1 +1,2 @@
-this is a project created by Qt creator
+# a project created by Qt creator
+# use alpha-beta algorithm
